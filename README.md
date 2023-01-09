@@ -6,10 +6,11 @@ Style transfer allows us to learn from the artistic styles of existing artworks 
 
 ### Example 1
 
-Original Image |  Mosaic |  Wave |  Afremov |  Miro
-:---------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-&nbsp; | <img src="./images/style_images/mosaic.jpg" width="120"/> | <img src="./images/style_images/wave.jpg" width="180"/> | <img src="./images/style_images/town_afremov.jpg" width="140"/> | <img src="./images/style_images/miro.jpg" width="190"/>
-<img src="./images/content_images/disney.jpg" /> |  ![](./images/result_images/disney_mosaic.jpg)|  ![](./images/result_images/disney_wave.jpg)|  ![](./images/result_images/disney_afremov.jpg)|  ![](./images/result_images/disney_miro.jpg)|
+Original |  Mosaic |  Wave |  Afremov |  Miro
+|:-----------:|:----------------:|:------------------------:|:------------------------:|:-------------------------:|
+&nbsp; | <img src="./images/style_images/mosaic.jpg" width="120"/> | <img src="./images/style_images/wave.jpg" width="180"/> | <img src="./images/style_images/town_afremov.jpg" width="140"/> | <img src="./images/style_images/miro.jpg" width="190"/> |
+![](./images/content_images/disney.jpg)|  ![](./images/result_images/disney_mosaic.jpg)|  ![](./images/result_images/disney_wave.jpg)|  ![](./images/result_images/disney_afremov.jpg)|  ![](./images/result_images/disney_miro.jpg)|
+
 
 
 ## To Run
