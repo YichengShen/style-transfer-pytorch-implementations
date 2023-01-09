@@ -11,7 +11,13 @@ Original |  Mosaic |  Wave |  Afremov |  Miro
 &nbsp; | <img src="./images/style_images/mosaic.jpg" width="120"/> | <img src="./images/style_images/wave.jpg" width="180"/> | <img src="./images/style_images/town_afremov.jpg" width="140"/> | <img src="./images/style_images/miro.jpg" width="190"/> |
 ![](./images/content_images/disney.jpg)|  ![](./images/result_images/disney_mosaic.jpg)|  ![](./images/result_images/disney_wave.jpg)|  ![](./images/result_images/disney_afremov.jpg)|  ![](./images/result_images/disney_miro.jpg)|
 
+### Example 2 (High-resolution image)
 
+![](./images/content_images/scene1.jpg)
+![](./images/result_images/mountains_wave.jpg)
+![](./images/result_images/mountains_lewis_workshop.jpg)
+![](./images/result_images/mountains_afremov.jpg)
+![](./images/result_images/mountains_wang_ximeng.jpg)
 
 ## To Run
 
@@ -43,3 +49,7 @@ Original |  Mosaic |  Wave |  Afremov |  Miro
   └── style_transfer_version2.ipynb
   ```
 - Follow instructions in [the Version 2 notebook](./style_transfer_version2.ipynb). Make sure you place images in appropriate folders and properly change the config in the notebook.
+
+## Note
+
+- The [pretrained weights folder](./trained_transformations) contains trained weights of several styles that you can directly use to stylize images.
